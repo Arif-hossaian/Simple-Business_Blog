@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Simple-Business_Blog/static/css/main.c095396d.chunk.css",
+    "main.js": "/Simple-Business_Blog/static/js/main.d64e8484.chunk.js",
+    "main.js.map": "/Simple-Business_Blog/static/js/main.d64e8484.chunk.js.map",
+    "runtime-main.js": "/Simple-Business_Blog/static/js/runtime-main.83b2e091.js",
+    "runtime-main.js.map": "/Simple-Business_Blog/static/js/runtime-main.83b2e091.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Simple-Business_Blog/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3a53f7b3.chunk.js": "/Simple-Business_Blog/static/js/2.3a53f7b3.chunk.js",
+    "static/js/2.3a53f7b3.chunk.js.map": "/Simple-Business_Blog/static/js/2.3a53f7b3.chunk.js.map",
+    "index.html": "/Simple-Business_Blog/index.html",
+    "precache-manifest.126ea0220587a28d29efae054b6d687a.js": "/Simple-Business_Blog/precache-manifest.126ea0220587a28d29efae054b6d687a.js",
+    "service-worker.js": "/Simple-Business_Blog/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Simple-Business_Blog/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.c095396d.chunk.css.map": "/Simple-Business_Blog/static/css/main.c095396d.chunk.css.map",
+    "static/js/2.3a53f7b3.chunk.js.LICENSE.txt": "/Simple-Business_Blog/static/js/2.3a53f7b3.chunk.js.LICENSE.txt",
+    "static/media/android_dev.jpg": "/Simple-Business_Blog/static/media/android_dev.d785dd08.jpg",
+    "static/media/app_dev.png": "/Simple-Business_Blog/static/media/app_dev.9ce8aa20.png",
+    "static/media/digital.jpeg": "/Simple-Business_Blog/static/media/digital.2b44c33c.jpeg",
+    "static/media/graphics.jpg": "/Simple-Business_Blog/static/media/graphics.16ca8773.jpg",
+    "static/media/iphn web image for service.png": "/Simple-Business_Blog/static/media/iphn web image for service.4bd6a8ec.png",
+    "static/media/logo.svg": "/Simple-Business_Blog/static/media/logo.5d5d9eef.svg",
+    "static/media/software_dev.jpg": "/Simple-Business_Blog/static/media/software_dev.6a28489c.jpg",
+    "static/media/success.svg": "/Simple-Business_Blog/static/media/success.0ff1d0f4.svg",
+    "static/media/web_development.jpg": "/Simple-Business_Blog/static/media/web_development.e18f4c85.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83b2e091.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3a53f7b3.chunk.js",
+    "static/css/main.c095396d.chunk.css",
+    "static/js/main.d64e8484.chunk.js"
+  ]
+}
